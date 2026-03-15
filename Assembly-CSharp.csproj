@@ -55,6 +55,7 @@
     <Compile Include="Assets\SCRIPTS\TabController.cs" />
     <Compile Include="Assets\NPC\NPCDialogue.cs" />
     <Compile Include="Assets\SCRIPTS\MainMenu.cs" />
+    <Compile Include="Assets\SCRIPTS\KEEP IT.cs" />
     <Compile Include="Assets\SCRIPTS\LevelChange.cs" />
     <Compile Include="Assets\SCRIPTS\PlayerMovement.cs" />
     <Compile Include="Assets\SCRIPTS\GlobalHelper.cs" />
