@@ -52,6 +52,7 @@
     <Compile Include="Assets\SCRIPTS\IInteractable.cs" />
     <Compile Include="Assets\SCRIPTS\DialogueController.cs" />
     <Compile Include="Assets\SCRIPTS\MenuController.cs" />
+    <Compile Include="Assets\SCRIPTS\CinemachinePlayerAssigner.cs" />
     <Compile Include="Assets\SCRIPTS\TabController.cs" />
     <Compile Include="Assets\NPC\NPCDialogue.cs" />
     <Compile Include="Assets\SCRIPTS\MainMenu.cs" />
