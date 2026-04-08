@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\SCRIPTS\IInteractable.cs" />
+    <Compile Include="Assets\NPC\Ai Lover Lady\NPCPatrol.cs" />
     <Compile Include="Assets\SCRIPTS\DialogueController.cs" />
     <Compile Include="Assets\SCRIPTS\MenuController.cs" />
     <Compile Include="Assets\SCRIPTS\CinemachinePlayerAssigner.cs" />
@@ -60,6 +61,7 @@
     <Compile Include="Assets\SCRIPTS\LevelChange.cs" />
     <Compile Include="Assets\SCRIPTS\PlayerMovement.cs" />
     <Compile Include="Assets\SCRIPTS\GlobalHelper.cs" />
+    <Compile Include="Assets\SCRIPTS\SelfSoulManager.cs" />
     <Compile Include="Assets\SCRIPTS\InteractionDetector.cs" />
     <Compile Include="Assets\NPC\NPC.cs" />
     <Compile Include="Assets\Player Inputs\InputManager.cs" />
